@@ -1,0 +1,23 @@
+[Added Associations]
+text/plain=org.xfce.mousepad.desktop;nvim.desktop;
+text/x-csrc=nvim.desktop;org.xfce.mousepad.desktop;
+application/x-shellscript=org.xfce.mousepad.desktop;nvim.desktop;
+text/x-python=org.xfce.mousepad.desktop;
+inode/directory=pycharm-professional.desktop;
+image/jpeg=swappy.desktop;
+image/png=swappy.desktop;
+application/json=nvim.desktop;
+x-scheme-handler/tonsite=org.telegram.desktop.desktop;
+application/x-zerosize=org.xfce.mousepad.desktop;nvim.desktop;
+video/mp4=mpv.desktop;
+text/x-cmake=org.xfce.mousepad.desktop;
+application/x-zstd-compressed-tar=xarchiver.desktop;
+inode/symlink=org.xfce.mousepad.desktop;
+
+[Default Applications]
+x-scheme-handler/https=librewolf.desktop
+x-scheme-handler/http=librewolf.desktop
+x-scheme-handler/postman=Postman.desktop
+inode/directory=pycharm-professional.desktop
+x-scheme-handler/tonsite=org.telegram.desktop.desktop
+inode/symlink=org.xfce.mousepad.desktop
